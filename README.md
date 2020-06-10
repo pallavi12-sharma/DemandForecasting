@@ -16,7 +16,20 @@ The dataset with 25,035 unique values and 24 attributes contains product demand 
 
 * Holt-Winter's Seasonal Method
 
-![GitHub Logo](https://drive.google.com/file/d/1CAiqCqsjozujF9BHfwzkvotgepVkc3Os/view?usp=sharing)
+![Holt Visualization](/Holt_Visualization.PNG)
 
 * Timeseries Analysis using Seasonal Autoregressive Integrated Moving Average (SARIMA)
+
+![SARIMA Visualization](/Sarima_Visualization.PNG)
+
+### Result Comparison
+
+Forecasting Models | Root Mean Square Error | Mean Absolute Percentage Error
+------------ | ------------- | -------------
+Exponential Smoothing Model | 1894.09 | 10.09
+Holt's Method using Static Seasonality Indices | 1458.29 | 8.03
+Holt-Winter's Seasonal Method | 1435.23 | 7.11
+Seasonal ARIMA (SARIMA) | 1810.3 | 8.67
+
+
 
