@@ -6,7 +6,7 @@ It is obligatory for any manufacturing firm to maintain continuity of its **supp
 
 ### Objective
 
-The objective of the project is to use demand data from [Superstore data](https://www.kaggle.com/jr2ngb/superstore-data) on Kaggle for a global company, and analyze the demand rates of the warehouse over a span of four years and develop a forecasting model to predict the demand for the month after next month in advance for products having less variability in demand as well having large variability in demand. 
+The objective of the project is to use demand data from [Superstore data](https://www.kaggle.com/felixzhao/productdemandforecasting) on Kaggle for a global company, and analyze the demand rates of the warehouse over a span of four years and develop a forecasting model to predict the demand for the month after next month in advance for products having less variability in demand as well having large variability in demand. 
 
 ### Dataset
 
