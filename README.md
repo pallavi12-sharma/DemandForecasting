@@ -10,7 +10,7 @@ The objective of the project is to use demand data from [Superstore data](https:
 
 ### Dataset
 
-The dataset with 25,035 unique values and 24 attributes contains product demand data over a 4 year period between 2011-2015. 
+The dataset with 2,172 unique products and 5 attributes contains product demand data over a 7 year period between 2011-2017. 
 
 ### Timeseries Analysis 
 
